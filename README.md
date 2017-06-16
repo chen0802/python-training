@@ -1,12 +1,12 @@
-# python-ayzenberg
+# python-training
 
-Python training at Ayzenberg, January 2017.
+Python training materials by Steve Tjoa.
 
 This is a private Git repository. I kindly ask that you keep these materials within the company. Share with your coworkers but not publicly. Thanks!
 
 ## Goals
 
-Educate Ayzenberg employees with varying programming backgrounds how to create reusable and scalable solutions for analytical reporting and visualization using Python, hopefully in a way that is useful and rewarding.
+Educate students and employees with varying programming backgrounds how to create reusable and scalable solutions for analytical reporting and visualization using Python, hopefully in a way that is useful and rewarding.
 
 Potential benefits:
 
@@ -61,9 +61,9 @@ Topics that are likely not covered:
 
 ## What you can do before Saturday
 
-Before Saturday, there are a few things that you can do to get the most out of the workshop:
+There are a few things that you can do to get the most out of this material:
 
-1.  Please reply to steve@stevetjoa.com telling me a little bit about your role at Ayzenberg, e.g. daily tasks, current short- and long-term work-related goals, your computer programming experience if any, and how you envision this workshop might benefit or relate to your needs.
+1.  Please reply to steve@stevetjoa.com telling me a little bit about your current role, e.g. daily tasks, current short- and long-term work-related goals, your computer programming experience if any, and how you envision this workshop might benefit or relate to your needs.
 2.  Please create an account on [GitHub](https://github.com) if you don’t already have one. Once you do, email me your GitHub username. GitHub is a company/website/service which hosts source code, both open-source and private source code. Companies everywhere use GitHub as a place to organize and track changes to code.
 3.  Install git. [Download here](https://git-scm.com/). Then open git to verify that it is installed properly.
     -   On Mac, at the Terminal, just type `git`.

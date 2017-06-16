@@ -119,6 +119,8 @@ In [26]: not False
 Out[26]: True
 ```
 
+[This page](http://www.mathcs.emory.edu/~valerie/courses/fall10/155/resources/op_precedence.html) lists Python operators by precedence. For comparison operators, `not` is highest, then `and`, and finally `or`.
+
 **Exercise**: What does the following code do?
 
 ```python

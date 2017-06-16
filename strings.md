@@ -169,7 +169,7 @@ We can iterate through the characters of a string in a few ways.
 **Exercise**: what does the following code do?
 
 ```python
-company = 'ayzenberg'
+company = 'galvanize'
 i = 0
 while i < 9:
     print company[i]
@@ -190,7 +190,7 @@ Out[2]: 5
 We can rewrite our `while` loop as follows:
 
 ```python
-company = 'ayzenberg'
+company = 'galvanize'
 i = 0
 while i < len(company):
     print company[i]
@@ -202,7 +202,7 @@ In general we try to stay away from `while` loops in Python.  We can also iterat
 **Exercise**: what does the following code do?
 
 ```python
-company = 'ayzenberg'
+company = 'galvanize'
 for i in range(len(company)):
     print company[i]
 ```
@@ -216,7 +216,7 @@ With our `for` loop, the variable `i` is automatically changed, whereas in the `
 However, we can still make the `for` loop more concise:
 
 ```python
-company = 'ayzenberg'
+company = 'galvanize'
 for char in company:
     print char
 ```
